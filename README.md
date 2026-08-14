@@ -120,7 +120,7 @@ unemployment-analysis-india/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/unemployment-analysis-india.git
+git clone https://github.com/harshif-star/unemployment-analysis-india.git
 ```
 
 ### 2. Navigate to the project
