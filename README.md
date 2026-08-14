@@ -174,7 +174,7 @@ Possible extensions include:
 
 ## 👨‍💻 Author
 
-**Harshif**
+**Hariprasad**
 
 B.Tech — Computer Science and Business Systems
 
